@@ -164,7 +164,7 @@ Feel free to open an Issue or Pull Request if you encounter any bugs or have sug
 
 If you use this repository or find it helpful, please cite the following paper:
 
-```
+```bibtex
 @misc{drinkall2025dimensionalityhurtsrolellm, 
     title={When Dimensionality Hurts: The Role of LLM Embedding Compression for Noisy Regression Tasks}, 
     author={Felix Drinkall and Janet B. Pierrehumbert and Stefan Zohren}, 
