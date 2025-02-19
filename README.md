@@ -153,12 +153,7 @@ project_root/
 
 ## License
 
-[MIT License](https://opensource.org/license/mit).
-
----
-
-Feel free to open an Issue or Pull Request if you encounter any bugs or have suggestions for new features.
-
+[MIT License](https://opensource.org/license/mit)
 
 ## Citation
 
@@ -177,3 +172,8 @@ If you use this repository or find it helpful, please cite the following paper:
 ```
 
 You can also access the paper [here](https://arxiv.org/abs/2502.02199).
+
+
+---
+
+Feel free to open an Issue or Pull Request if you encounter any bugs or have suggestions for new features.
