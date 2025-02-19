@@ -1,7 +1,7 @@
 # when_dimensionality_hurts
 
 
-This repository contains the code for a the paper [When Dimensionality Hurts: The Role of LLM Embedding Compression for Noisy Regression Tasks](https://arxiv.org/abs/2502.02199). The dataset can be found [here](https://github.com/FelixDrinkall/financial-news-dataset/) and [here](https://huggingface.co/datasets/luckycat37/financial-news-dataset).
+This repository contains the code for the paper [When Dimensionality Hurts: The Role of LLM Embedding Compression for Noisy Regression Tasks](https://arxiv.org/abs/2502.02199). The dataset can be found [here](https://github.com/FelixDrinkall/financial-news-dataset/) and [here](https://huggingface.co/datasets/luckycat37/financial-news-dataset).
 
 ---
 
