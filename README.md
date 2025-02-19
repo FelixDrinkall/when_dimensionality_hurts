@@ -153,7 +153,7 @@ project_root/
 
 ## License
 
-[MIT License](https://opensource.org/license/mit) (or whichever license you prefer).
+[MIT License](https://opensource.org/license/mit).
 
 ---
 
